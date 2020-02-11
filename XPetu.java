@@ -15,7 +15,7 @@ class XPetu {
 		return this.name;
 	}
 
-	void SetRank(String rank) {
+	void setRank(String rank) {
 		this.rank = rank;
 	}
 
@@ -24,7 +24,7 @@ class XPetu {
 	}
 
 	void setLP(int lP) {
-		this.lP = lP
+		this.lP = lP;
 	}
 
 	int getLP() {
